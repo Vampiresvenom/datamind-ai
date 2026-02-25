@@ -4,7 +4,7 @@ import numpy as np
 import json, re, io, textwrap, os
 from datetime import datetime
 
-# ── Must be first Streamlit call ─────────────────────────────────────────────
+# ── Must be first Streamlit call ────────────────────────────────────────────
 st.set_page_config(
     page_title="DataMind AI · BI Agent",
     page_icon="⚡",
